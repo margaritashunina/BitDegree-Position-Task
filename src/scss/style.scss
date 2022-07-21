@@ -1,0 +1,48 @@
+@import './variables';
+@import './mixins';
+@import './base';
+
+/* CLASSES */
+.flex-row-center {
+    @include flex-container(row, center);
+}
+
+.flex-column-center {
+    @include flex-container(column, center);
+}
+
+.flex-row-end {
+    @include flex-container(row, end);
+}
+
+.width-full {
+    width: 100%;
+}
+
+.low-color {
+    color: $green-300;
+}
+
+.average-color {
+    color: $blue-300;
+}
+
+.high-color {
+    color: $red-300;
+}
+
+button {
+    font-size: 1.2rem;
+    border-radius: 0.4rem;
+    width: 20%;
+    color: $slate-700;
+    border: solid thin $slate-300;
+    background-color: $slate-50;
+}
+
+button:hover,
+.active-button {
+    color: $slate-200;
+    background-color: $slate-700;
+    border: solid thin $slate-200;
+}

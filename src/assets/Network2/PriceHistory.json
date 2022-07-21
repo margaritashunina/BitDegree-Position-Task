@@ -1,0 +1,1624 @@
+{
+    "data": [
+        {
+            "date": "July 20",
+            "low": {
+                "min": 17,
+                "average": 105,
+                "max": 347
+            },
+            "average": {
+                "min": 20,
+                "average": 131,
+                "max": 384
+            },
+            "high": {
+                "min": 20,
+                "average": 150,
+                "max": 395
+            }
+        },
+        {
+            "date": "July 21",
+            "low": {
+                "min": 20,
+                "average": 80,
+                "max": 181
+            },
+            "average": {
+                "min": 20,
+                "average": 81,
+                "max": 322
+            },
+            "high": {
+                "min": 20,
+                "average": 142,
+                "max": 370
+            }
+        },
+        {
+            "date": "July 22",
+            "low": {
+                "min": 9,
+                "average": 150,
+                "max": 234
+            },
+            "average": {
+                "min": 10,
+                "average": 150,
+                "max": 333
+            },
+            "high": {
+                "min": 10,
+                "average": 150,
+                "max": 357
+            }
+        },
+        {
+            "date": "July 23",
+            "low": {
+                "min": 8,
+                "average": 105,
+                "max": 260
+            },
+            "average": {
+                "min": 8,
+                "average": 126,
+                "max": 373
+            },
+            "high": {
+                "min": 11,
+                "average": 132,
+                "max": 381
+            }
+        },
+        {
+            "date": "July 24",
+            "low": {
+                "min": 11,
+                "average": 26,
+                "max": 363
+            },
+            "average": {
+                "min": 12,
+                "average": 105,
+                "max": 396
+            },
+            "high": {
+                "min": 19,
+                "average": 118,
+                "max": 396
+            }
+        },
+        {
+            "date": "July 25",
+            "low": {
+                "min": 20,
+                "average": 25,
+                "max": 263
+            },
+            "average": {
+                "min": 20,
+                "average": 58,
+                "max": 358
+            },
+            "high": {
+                "min": 20,
+                "average": 99,
+                "max": 366
+            }
+        },
+        {
+            "date": "July 26",
+            "low": {
+                "min": 6,
+                "average": 121,
+                "max": 258
+            },
+            "average": {
+                "min": 6,
+                "average": 130,
+                "max": 335
+            },
+            "high": {
+                "min": 17,
+                "average": 145,
+                "max": 351
+            }
+        },
+        {
+            "date": "July 27",
+            "low": {
+                "min": 4,
+                "average": 54,
+                "max": 350
+            },
+            "average": {
+                "min": 14,
+                "average": 68,
+                "max": 386
+            },
+            "high": {
+                "min": 14,
+                "average": 119,
+                "max": 392
+            }
+        },
+        {
+            "date": "July 28",
+            "low": {
+                "min": 8,
+                "average": 141,
+                "max": 199
+            },
+            "average": {
+                "min": 14,
+                "average": 143,
+                "max": 241
+            },
+            "high": {
+                "min": 19,
+                "average": 146,
+                "max": 264
+            }
+        },
+        {
+            "date": "July 29",
+            "low": {
+                "min": 14,
+                "average": 134,
+                "max": 390
+            },
+            "average": {
+                "min": 20,
+                "average": 140,
+                "max": 398
+            },
+            "high": {
+                "min": 20,
+                "average": 141,
+                "max": 399
+            }
+        },
+        {
+            "date": "July 30",
+            "low": {
+                "min": 2,
+                "average": 129,
+                "max": 205
+            },
+            "average": {
+                "min": 9,
+                "average": 148,
+                "max": 263
+            },
+            "high": {
+                "min": 9,
+                "average": 149,
+                "max": 326
+            }
+        },
+        {
+            "date": "July 31",
+            "low": {
+                "min": 1,
+                "average": 77,
+                "max": 339
+            },
+            "average": {
+                "min": 11,
+                "average": 149,
+                "max": 365
+            },
+            "high": {
+                "min": 17,
+                "average": 150,
+                "max": 398
+            }
+        },
+        {
+            "date": "August 1",
+            "low": {
+                "min": 17,
+                "average": 122,
+                "max": 360
+            },
+            "average": {
+                "min": 17,
+                "average": 136,
+                "max": 362
+            },
+            "high": {
+                "min": 19,
+                "average": 141,
+                "max": 378
+            }
+        },
+        {
+            "date": "August 2",
+            "low": {
+                "min": 17,
+                "average": 126,
+                "max": 240
+            },
+            "average": {
+                "min": 17,
+                "average": 145,
+                "max": 303
+            },
+            "high": {
+                "min": 18,
+                "average": 150,
+                "max": 322
+            }
+        },
+        {
+            "date": "August 3",
+            "low": {
+                "min": 20,
+                "average": 70,
+                "max": 328
+            },
+            "average": {
+                "min": 20,
+                "average": 149,
+                "max": 383
+            },
+            "high": {
+                "min": 20,
+                "average": 149,
+                "max": 385
+            }
+        },
+        {
+            "date": "August 4",
+            "low": {
+                "min": 20,
+                "average": 144,
+                "max": 392
+            },
+            "average": {
+                "min": 20,
+                "average": 144,
+                "max": 398
+            },
+            "high": {
+                "min": 20,
+                "average": 145,
+                "max": 398
+            }
+        },
+        {
+            "date": "August 5",
+            "low": {
+                "min": 2,
+                "average": 94,
+                "max": 244
+            },
+            "average": {
+                "min": 14,
+                "average": 113,
+                "max": 340
+            },
+            "high": {
+                "min": 17,
+                "average": 123,
+                "max": 395
+            }
+        },
+        {
+            "date": "August 6",
+            "low": {
+                "min": 7,
+                "average": 119,
+                "max": 360
+            },
+            "average": {
+                "min": 13,
+                "average": 144,
+                "max": 382
+            },
+            "high": {
+                "min": 19,
+                "average": 150,
+                "max": 385
+            }
+        },
+        {
+            "date": "August 7",
+            "low": {
+                "min": 11,
+                "average": 132,
+                "max": 308
+            },
+            "average": {
+                "min": 19,
+                "average": 142,
+                "max": 313
+            },
+            "high": {
+                "min": 20,
+                "average": 147,
+                "max": 326
+            }
+        },
+        {
+            "date": "August 8",
+            "low": {
+                "min": 13,
+                "average": 135,
+                "max": 331
+            },
+            "average": {
+                "min": 19,
+                "average": 137,
+                "max": 361
+            },
+            "high": {
+                "min": 19,
+                "average": 144,
+                "max": 391
+            }
+        },
+        {
+            "date": "August 9",
+            "low": {
+                "min": 12,
+                "average": 32,
+                "max": 287
+            },
+            "average": {
+                "min": 18,
+                "average": 135,
+                "max": 399
+            },
+            "high": {
+                "min": 18,
+                "average": 140,
+                "max": 399
+            }
+        },
+        {
+            "date": "August 10",
+            "low": {
+                "min": 6,
+                "average": 79,
+                "max": 333
+            },
+            "average": {
+                "min": 16,
+                "average": 79,
+                "max": 338
+            },
+            "high": {
+                "min": 18,
+                "average": 112,
+                "max": 382
+            }
+        },
+        {
+            "date": "August 11",
+            "low": {
+                "min": 1,
+                "average": 65,
+                "max": 180
+            },
+            "average": {
+                "min": 14,
+                "average": 119,
+                "max": 235
+            },
+            "high": {
+                "min": 19,
+                "average": 121,
+                "max": 283
+            }
+        },
+        {
+            "date": "August 12",
+            "low": {
+                "min": 6,
+                "average": 132,
+                "max": 348
+            },
+            "average": {
+                "min": 8,
+                "average": 149,
+                "max": 384
+            },
+            "high": {
+                "min": 19,
+                "average": 150,
+                "max": 396
+            }
+        },
+        {
+            "date": "August 13",
+            "low": {
+                "min": 18,
+                "average": 40,
+                "max": 276
+            },
+            "average": {
+                "min": 18,
+                "average": 80,
+                "max": 364
+            },
+            "high": {
+                "min": 19,
+                "average": 134,
+                "max": 393
+            }
+        },
+        {
+            "date": "August 14",
+            "low": {
+                "min": 19,
+                "average": 97,
+                "max": 367
+            },
+            "average": {
+                "min": 19,
+                "average": 116,
+                "max": 385
+            },
+            "high": {
+                "min": 19,
+                "average": 150,
+                "max": 392
+            }
+        },
+        {
+            "date": "August 15",
+            "low": {
+                "min": 14,
+                "average": 21,
+                "max": 342
+            },
+            "average": {
+                "min": 14,
+                "average": 59,
+                "max": 389
+            },
+            "high": {
+                "min": 19,
+                "average": 120,
+                "max": 397
+            }
+        },
+        {
+            "date": "August 16",
+            "low": {
+                "min": 18,
+                "average": 60,
+                "max": 174
+            },
+            "average": {
+                "min": 18,
+                "average": 67,
+                "max": 351
+            },
+            "high": {
+                "min": 18,
+                "average": 145,
+                "max": 352
+            }
+        },
+        {
+            "date": "August 17",
+            "low": {
+                "min": 1,
+                "average": 113,
+                "max": 278
+            },
+            "average": {
+                "min": 14,
+                "average": 124,
+                "max": 383
+            },
+            "high": {
+                "min": 15,
+                "average": 126,
+                "max": 397
+            }
+        },
+        {
+            "date": "August 18",
+            "low": {
+                "min": 19,
+                "average": 117,
+                "max": 363
+            },
+            "average": {
+                "min": 19,
+                "average": 145,
+                "max": 372
+            },
+            "high": {
+                "min": 20,
+                "average": 149,
+                "max": 374
+            }
+        },
+        {
+            "date": "August 19",
+            "low": {
+                "min": 1,
+                "average": 105,
+                "max": 220
+            },
+            "average": {
+                "min": 18,
+                "average": 138,
+                "max": 252
+            },
+            "high": {
+                "min": 19,
+                "average": 144,
+                "max": 339
+            }
+        },
+        {
+            "date": "August 20",
+            "low": {
+                "min": 1,
+                "average": 48,
+                "max": 293
+            },
+            "average": {
+                "min": 5,
+                "average": 148,
+                "max": 339
+            },
+            "high": {
+                "min": 17,
+                "average": 148,
+                "max": 386
+            }
+        },
+        {
+            "date": "August 21",
+            "low": {
+                "min": 12,
+                "average": 105,
+                "max": 181
+            },
+            "average": {
+                "min": 13,
+                "average": 120,
+                "max": 226
+            },
+            "high": {
+                "min": 13,
+                "average": 125,
+                "max": 262
+            }
+        },
+        {
+            "date": "August 22",
+            "low": {
+                "min": 12,
+                "average": 124,
+                "max": 310
+            },
+            "average": {
+                "min": 18,
+                "average": 143,
+                "max": 359
+            },
+            "high": {
+                "min": 20,
+                "average": 150,
+                "max": 384
+            }
+        },
+        {
+            "date": "August 23",
+            "low": {
+                "min": 1,
+                "average": 93,
+                "max": 202
+            },
+            "average": {
+                "min": 4,
+                "average": 148,
+                "max": 258
+            },
+            "high": {
+                "min": 10,
+                "average": 150,
+                "max": 353
+            }
+        },
+        {
+            "date": "August 24",
+            "low": {
+                "min": 9,
+                "average": 119,
+                "max": 198
+            },
+            "average": {
+                "min": 10,
+                "average": 150,
+                "max": 359
+            },
+            "high": {
+                "min": 11,
+                "average": 150,
+                "max": 395
+            }
+        },
+        {
+            "date": "August 25",
+            "low": {
+                "min": 18,
+                "average": 133,
+                "max": 168
+            },
+            "average": {
+                "min": 20,
+                "average": 145,
+                "max": 333
+            },
+            "high": {
+                "min": 20,
+                "average": 150,
+                "max": 362
+            }
+        },
+        {
+            "date": "August 26",
+            "low": {
+                "min": 5,
+                "average": 77,
+                "max": 335
+            },
+            "average": {
+                "min": 5,
+                "average": 81,
+                "max": 364
+            },
+            "high": {
+                "min": 18,
+                "average": 115,
+                "max": 396
+            }
+        },
+        {
+            "date": "August 27",
+            "low": {
+                "min": 9,
+                "average": 67,
+                "max": 374
+            },
+            "average": {
+                "min": 12,
+                "average": 119,
+                "max": 394
+            },
+            "high": {
+                "min": 20,
+                "average": 142,
+                "max": 400
+            }
+        },
+        {
+            "date": "August 28",
+            "low": {
+                "min": 14,
+                "average": 139,
+                "max": 387
+            },
+            "average": {
+                "min": 17,
+                "average": 142,
+                "max": 388
+            },
+            "high": {
+                "min": 17,
+                "average": 142,
+                "max": 393
+            }
+        },
+        {
+            "date": "August 29",
+            "low": {
+                "min": 3,
+                "average": 23,
+                "max": 154
+            },
+            "average": {
+                "min": 3,
+                "average": 40,
+                "max": 171
+            },
+            "high": {
+                "min": 5,
+                "average": 90,
+                "max": 361
+            }
+        },
+        {
+            "date": "August 30",
+            "low": {
+                "min": 10,
+                "average": 50,
+                "max": 291
+            },
+            "average": {
+                "min": 17,
+                "average": 108,
+                "max": 331
+            },
+            "high": {
+                "min": 20,
+                "average": 128,
+                "max": 342
+            }
+        },
+        {
+            "date": "August 31",
+            "low": {
+                "min": 1,
+                "average": 136,
+                "max": 197
+            },
+            "average": {
+                "min": 16,
+                "average": 136,
+                "max": 215
+            },
+            "high": {
+                "min": 18,
+                "average": 146,
+                "max": 296
+            }
+        },
+        {
+            "date": "September 1",
+            "low": {
+                "min": 4,
+                "average": 103,
+                "max": 237
+            },
+            "average": {
+                "min": 19,
+                "average": 111,
+                "max": 255
+            },
+            "high": {
+                "min": 20,
+                "average": 147,
+                "max": 343
+            }
+        },
+        {
+            "date": "September 2",
+            "low": {
+                "min": 7,
+                "average": 57,
+                "max": 154
+            },
+            "average": {
+                "min": 7,
+                "average": 142,
+                "max": 274
+            },
+            "high": {
+                "min": 20,
+                "average": 148,
+                "max": 313
+            }
+        },
+        {
+            "date": "September 3",
+            "low": {
+                "min": 12,
+                "average": 137,
+                "max": 196
+            },
+            "average": {
+                "min": 17,
+                "average": 148,
+                "max": 222
+            },
+            "high": {
+                "min": 20,
+                "average": 148,
+                "max": 301
+            }
+        },
+        {
+            "date": "September 4",
+            "low": {
+                "min": 4,
+                "average": 77,
+                "max": 396
+            },
+            "average": {
+                "min": 6,
+                "average": 131,
+                "max": 400
+            },
+            "high": {
+                "min": 10,
+                "average": 134,
+                "max": 400
+            }
+        },
+        {
+            "date": "September 5",
+            "low": {
+                "min": 15,
+                "average": 100,
+                "max": 245
+            },
+            "average": {
+                "min": 20,
+                "average": 113,
+                "max": 353
+            },
+            "high": {
+                "min": 20,
+                "average": 146,
+                "max": 366
+            }
+        },
+        {
+            "date": "September 6",
+            "low": {
+                "min": 11,
+                "average": 99,
+                "max": 331
+            },
+            "average": {
+                "min": 20,
+                "average": 130,
+                "max": 367
+            },
+            "high": {
+                "min": 20,
+                "average": 132,
+                "max": 399
+            }
+        },
+        {
+            "date": "September 7",
+            "low": {
+                "min": 9,
+                "average": 80,
+                "max": 361
+            },
+            "average": {
+                "min": 13,
+                "average": 83,
+                "max": 390
+            },
+            "high": {
+                "min": 17,
+                "average": 105,
+                "max": 398
+            }
+        },
+        {
+            "date": "September 8",
+            "low": {
+                "min": 2,
+                "average": 141,
+                "max": 250
+            },
+            "average": {
+                "min": 3,
+                "average": 149,
+                "max": 384
+            },
+            "high": {
+                "min": 15,
+                "average": 149,
+                "max": 386
+            }
+        },
+        {
+            "date": "September 9",
+            "low": {
+                "min": 10,
+                "average": 89,
+                "max": 304
+            },
+            "average": {
+                "min": 17,
+                "average": 110,
+                "max": 319
+            },
+            "high": {
+                "min": 17,
+                "average": 139,
+                "max": 338
+            }
+        },
+        {
+            "date": "September 10",
+            "low": {
+                "min": 9,
+                "average": 134,
+                "max": 222
+            },
+            "average": {
+                "min": 17,
+                "average": 138,
+                "max": 347
+            },
+            "high": {
+                "min": 19,
+                "average": 146,
+                "max": 350
+            }
+        },
+        {
+            "date": "September 11",
+            "low": {
+                "min": 3,
+                "average": 39,
+                "max": 328
+            },
+            "average": {
+                "min": 13,
+                "average": 99,
+                "max": 356
+            },
+            "high": {
+                "min": 19,
+                "average": 133,
+                "max": 381
+            }
+        },
+        {
+            "date": "September 12",
+            "low": {
+                "min": 11,
+                "average": 133,
+                "max": 170
+            },
+            "average": {
+                "min": 16,
+                "average": 143,
+                "max": 263
+            },
+            "high": {
+                "min": 16,
+                "average": 149,
+                "max": 314
+            }
+        },
+        {
+            "date": "September 13",
+            "low": {
+                "min": 14,
+                "average": 90,
+                "max": 240
+            },
+            "average": {
+                "min": 16,
+                "average": 99,
+                "max": 382
+            },
+            "high": {
+                "min": 17,
+                "average": 128,
+                "max": 390
+            }
+        },
+        {
+            "date": "September 14",
+            "low": {
+                "min": 17,
+                "average": 37,
+                "max": 266
+            },
+            "average": {
+                "min": 18,
+                "average": 43,
+                "max": 308
+            },
+            "high": {
+                "min": 18,
+                "average": 59,
+                "max": 346
+            }
+        },
+        {
+            "date": "September 15",
+            "low": {
+                "min": 6,
+                "average": 75,
+                "max": 288
+            },
+            "average": {
+                "min": 9,
+                "average": 78,
+                "max": 355
+            },
+            "high": {
+                "min": 20,
+                "average": 109,
+                "max": 381
+            }
+        },
+        {
+            "date": "September 16",
+            "low": {
+                "min": 9,
+                "average": 101,
+                "max": 273
+            },
+            "average": {
+                "min": 11,
+                "average": 101,
+                "max": 381
+            },
+            "high": {
+                "min": 16,
+                "average": 136,
+                "max": 394
+            }
+        },
+        {
+            "date": "September 17",
+            "low": {
+                "min": 4,
+                "average": 75,
+                "max": 175
+            },
+            "average": {
+                "min": 11,
+                "average": 127,
+                "max": 237
+            },
+            "high": {
+                "min": 18,
+                "average": 134,
+                "max": 276
+            }
+        },
+        {
+            "date": "September 18",
+            "low": {
+                "min": 9,
+                "average": 22,
+                "max": 181
+            },
+            "average": {
+                "min": 18,
+                "average": 148,
+                "max": 216
+            },
+            "high": {
+                "min": 20,
+                "average": 150,
+                "max": 226
+            }
+        },
+        {
+            "date": "September 19",
+            "low": {
+                "min": 19,
+                "average": 130,
+                "max": 387
+            },
+            "average": {
+                "min": 19,
+                "average": 138,
+                "max": 388
+            },
+            "high": {
+                "min": 19,
+                "average": 150,
+                "max": 395
+            }
+        },
+        {
+            "date": "September 20",
+            "low": {
+                "min": 14,
+                "average": 22,
+                "max": 217
+            },
+            "average": {
+                "min": 14,
+                "average": 61,
+                "max": 233
+            },
+            "high": {
+                "min": 19,
+                "average": 113,
+                "max": 304
+            }
+        },
+        {
+            "date": "September 21",
+            "low": {
+                "min": 2,
+                "average": 79,
+                "max": 186
+            },
+            "average": {
+                "min": 13,
+                "average": 120,
+                "max": 230
+            },
+            "high": {
+                "min": 17,
+                "average": 135,
+                "max": 264
+            }
+        },
+        {
+            "date": "September 22",
+            "low": {
+                "min": 18,
+                "average": 63,
+                "max": 374
+            },
+            "average": {
+                "min": 19,
+                "average": 93,
+                "max": 379
+            },
+            "high": {
+                "min": 20,
+                "average": 120,
+                "max": 393
+            }
+        },
+        {
+            "date": "September 23",
+            "low": {
+                "min": 10,
+                "average": 149,
+                "max": 256
+            },
+            "average": {
+                "min": 10,
+                "average": 150,
+                "max": 377
+            },
+            "high": {
+                "min": 20,
+                "average": 150,
+                "max": 395
+            }
+        },
+        {
+            "date": "September 24",
+            "low": {
+                "min": 2,
+                "average": 115,
+                "max": 159
+            },
+            "average": {
+                "min": 13,
+                "average": 134,
+                "max": 281
+            },
+            "high": {
+                "min": 17,
+                "average": 147,
+                "max": 380
+            }
+        },
+        {
+            "date": "September 25",
+            "low": {
+                "min": 3,
+                "average": 37,
+                "max": 205
+            },
+            "average": {
+                "min": 6,
+                "average": 77,
+                "max": 338
+            },
+            "high": {
+                "min": 16,
+                "average": 145,
+                "max": 377
+            }
+        },
+        {
+            "date": "September 26",
+            "low": {
+                "min": 11,
+                "average": 114,
+                "max": 250
+            },
+            "average": {
+                "min": 18,
+                "average": 123,
+                "max": 311
+            },
+            "high": {
+                "min": 18,
+                "average": 135,
+                "max": 332
+            }
+        },
+        {
+            "date": "September 27",
+            "low": {
+                "min": 1,
+                "average": 137,
+                "max": 256
+            },
+            "average": {
+                "min": 7,
+                "average": 145,
+                "max": 271
+            },
+            "high": {
+                "min": 15,
+                "average": 150,
+                "max": 382
+            }
+        },
+        {
+            "date": "September 28",
+            "low": {
+                "min": 7,
+                "average": 93,
+                "max": 287
+            },
+            "average": {
+                "min": 18,
+                "average": 139,
+                "max": 394
+            },
+            "high": {
+                "min": 19,
+                "average": 150,
+                "max": 400
+            }
+        },
+        {
+            "date": "September 29",
+            "low": {
+                "min": 1,
+                "average": 99,
+                "max": 384
+            },
+            "average": {
+                "min": 11,
+                "average": 133,
+                "max": 393
+            },
+            "high": {
+                "min": 16,
+                "average": 148,
+                "max": 393
+            }
+        },
+        {
+            "date": "September 30",
+            "low": {
+                "min": 5,
+                "average": 116,
+                "max": 152
+            },
+            "average": {
+                "min": 15,
+                "average": 132,
+                "max": 204
+            },
+            "high": {
+                "min": 19,
+                "average": 132,
+                "max": 329
+            }
+        },
+        {
+            "date": "October 1",
+            "low": {
+                "min": 17,
+                "average": 61,
+                "max": 288
+            },
+            "average": {
+                "min": 19,
+                "average": 109,
+                "max": 355
+            },
+            "high": {
+                "min": 19,
+                "average": 130,
+                "max": 359
+            }
+        },
+        {
+            "date": "October 2",
+            "low": {
+                "min": 20,
+                "average": 87,
+                "max": 152
+            },
+            "average": {
+                "min": 20,
+                "average": 109,
+                "max": 365
+            },
+            "high": {
+                "min": 20,
+                "average": 126,
+                "max": 371
+            }
+        },
+        {
+            "date": "October 3",
+            "low": {
+                "min": 15,
+                "average": 117,
+                "max": 160
+            },
+            "average": {
+                "min": 15,
+                "average": 145,
+                "max": 209
+            },
+            "high": {
+                "min": 20,
+                "average": 148,
+                "max": 313
+            }
+        },
+        {
+            "date": "October 4",
+            "low": {
+                "min": 9,
+                "average": 59,
+                "max": 294
+            },
+            "average": {
+                "min": 12,
+                "average": 150,
+                "max": 350
+            },
+            "high": {
+                "min": 14,
+                "average": 150,
+                "max": 391
+            }
+        },
+        {
+            "date": "October 5",
+            "low": {
+                "min": 8,
+                "average": 25,
+                "max": 191
+            },
+            "average": {
+                "min": 14,
+                "average": 120,
+                "max": 275
+            },
+            "high": {
+                "min": 18,
+                "average": 150,
+                "max": 286
+            }
+        },
+        {
+            "date": "October 6",
+            "low": {
+                "min": 7,
+                "average": 46,
+                "max": 307
+            },
+            "average": {
+                "min": 11,
+                "average": 123,
+                "max": 396
+            },
+            "high": {
+                "min": 14,
+                "average": 136,
+                "max": 398
+            }
+        },
+        {
+            "date": "October 7",
+            "low": {
+                "min": 16,
+                "average": 42,
+                "max": 394
+            },
+            "average": {
+                "min": 20,
+                "average": 106,
+                "max": 397
+            },
+            "high": {
+                "min": 20,
+                "average": 149,
+                "max": 397
+            }
+        },
+        {
+            "date": "October 8",
+            "low": {
+                "min": 8,
+                "average": 37,
+                "max": 206
+            },
+            "average": {
+                "min": 18,
+                "average": 116,
+                "max": 344
+            },
+            "high": {
+                "min": 18,
+                "average": 147,
+                "max": 376
+            }
+        },
+        {
+            "date": "October 9",
+            "low": {
+                "min": 6,
+                "average": 42,
+                "max": 256
+            },
+            "average": {
+                "min": 15,
+                "average": 119,
+                "max": 256
+            },
+            "high": {
+                "min": 20,
+                "average": 120,
+                "max": 327
+            }
+        },
+        {
+            "date": "October 10",
+            "low": {
+                "min": 18,
+                "average": 32,
+                "max": 154
+            },
+            "average": {
+                "min": 19,
+                "average": 86,
+                "max": 352
+            },
+            "high": {
+                "min": 19,
+                "average": 109,
+                "max": 357
+            }
+        },
+        {
+            "date": "October 11",
+            "low": {
+                "min": 13,
+                "average": 108,
+                "max": 273
+            },
+            "average": {
+                "min": 18,
+                "average": 141,
+                "max": 316
+            },
+            "high": {
+                "min": 20,
+                "average": 142,
+                "max": 390
+            }
+        },
+        {
+            "date": "October 12",
+            "low": {
+                "min": 20,
+                "average": 110,
+                "max": 226
+            },
+            "average": {
+                "min": 20,
+                "average": 110,
+                "max": 288
+            },
+            "high": {
+                "min": 20,
+                "average": 123,
+                "max": 360
+            }
+        },
+        {
+            "date": "October 13",
+            "low": {
+                "min": 13,
+                "average": 135,
+                "max": 273
+            },
+            "average": {
+                "min": 13,
+                "average": 141,
+                "max": 377
+            },
+            "high": {
+                "min": 18,
+                "average": 145,
+                "max": 396
+            }
+        },
+        {
+            "date": "October 14",
+            "low": {
+                "min": 13,
+                "average": 140,
+                "max": 374
+            },
+            "average": {
+                "min": 19,
+                "average": 144,
+                "max": 390
+            },
+            "high": {
+                "min": 20,
+                "average": 148,
+                "max": 396
+            }
+        },
+        {
+            "date": "October 15",
+            "low": {
+                "min": 16,
+                "average": 137,
+                "max": 180
+            },
+            "average": {
+                "min": 16,
+                "average": 147,
+                "max": 268
+            },
+            "high": {
+                "min": 19,
+                "average": 148,
+                "max": 304
+            }
+        },
+        {
+            "date": "October 16",
+            "low": {
+                "min": 6,
+                "average": 86,
+                "max": 227
+            },
+            "average": {
+                "min": 18,
+                "average": 119,
+                "max": 242
+            },
+            "high": {
+                "min": 19,
+                "average": 128,
+                "max": 271
+            }
+        },
+        {
+            "date": "October 17",
+            "low": {
+                "min": 2,
+                "average": 26,
+                "max": 391
+            },
+            "average": {
+                "min": 10,
+                "average": 64,
+                "max": 400
+            },
+            "high": {
+                "min": 13,
+                "average": 140,
+                "max": 400
+            }
+        }
+    ]
+}
