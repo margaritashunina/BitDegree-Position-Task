@@ -1,10 +1,8 @@
 # Position Task
 
 ## Technologies used 
-```
 - Vue.js 3
 - Scss
-```
 
 ## Project setup 
 ```
