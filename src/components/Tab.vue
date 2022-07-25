@@ -42,7 +42,9 @@
 <template>
     <div class="flex-column-center width-full">
         <div class="gas-meter-container width-full">
-            <GasMeter v-for="tp in priceTypes" v-if="priceCurrent" :type="tp" :value="priceCurrent[tp]"/>
+            <GasMeter v-for="tp in priceTypes" v-if="priceCurrent" 
+                      :type="tp" :value="priceCurrent[tp].value"
+                      :additionalInfo="priceCurrent[tp].additionalInfo"/>
         </div>
         <GasPriceChart v-if="priceHistory" :gasPriceData="priceHistory"/>
     </div>

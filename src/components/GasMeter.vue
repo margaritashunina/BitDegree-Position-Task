@@ -3,6 +3,7 @@
         props: {
             type: String,
             value: Number,
+            additionalInfo: Object
         }
     }
 </script>
@@ -11,6 +12,11 @@
     <div class="flex-column-center gas-meter-card">
         <p :class="type + '-color'">{{ type.toUpperCase() }}</p>
         <p>{{ value }} gwei</p>
+        <div class="add-info">
+            <p v-for="(value, key) in additionalInfo">
+                {{key}} {{value}}
+            </p>
+        </div>
     </div>
 </template>
 
@@ -18,16 +24,25 @@
 @import '../scss/style.scss';
 
 .gas-meter-card {
-    aspect-ratio: 16 / 9;
-    border: solid thin $slate-300;
+    @import '../scss/style.scss';
+
+    border: solid thin $shadow-color;
     border-radius: 0.4rem;
     font-size: 2rem;
-    width: 80%;
+
+    aspect-ratio: 16 / 9;
+    width: 100%;
+
+    @media (min-width: $breakpoint){
+        width: 33%;
+    }
 }
 
-@media (min-width: $breakpoint){
-    .gas-meter-card {
-        width: 20%;
-    }
+.add-info {
+    @include flex-container(row, center);
+    flex-wrap: wrap;
+
+    color: $secondary-text-color;
+    font-size: 1rem;
 }
 </style>

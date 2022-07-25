@@ -1,12 +1,15 @@
 /* COLORS */
-$slate-700: #334155;
-$slate-300: #cbd5e1;
-$slate-200: #e2e8f0;
-$slate-50: #f8fafc;
+$low-price: rgb(127, 175, 222);
+$average-price: rgb(156, 39, 176);
+$high-price: rgb(233, 30, 99);
 
-$green-300: #86efac;
-$blue-300: #93c5fd;
-$red-300: #fca5a5;
+$primary-text-color: rgb(21, 2, 8);
+$secondary-text-color: rgb(170, 170, 170);
+
+$buttons-color: rgb(152, 132, 252);
+$background-color: rgb(255, 255, 255);
+$shadow-color: rgba(181, 181, 181, 0.358);
+
 
 /* SIZES */
 $breakpoint: 50rem;

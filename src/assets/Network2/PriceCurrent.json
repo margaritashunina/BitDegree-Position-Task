@@ -1,7 +1,28 @@
 {
     "data": {
-        "low": 6,
-        "average": 7,
-        "high": 8
+        "low": {
+            "value": 55,
+            "additionalInfo": {
+                "time": "30-60 secs",
+                "base": 25,
+                "priority": 30
+            }
+        },
+        "average": {
+            "value": 75.2,
+            "additionalInfo": {
+                "time": "10-30 secs",
+                "base": 25,
+                "priority": 50.2
+            }
+        },
+        "high": {
+            "value": 75.7,
+            "additionalInfo": {
+                "time": "5-10 secs",
+                "base": 25,
+                "priority": 50.7
+            }
+        }
     }
 }

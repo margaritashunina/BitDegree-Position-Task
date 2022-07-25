@@ -1,7 +1,31 @@
 {
     "data": {
-        "low": 5,
-        "average": 6,
-        "high": 7
+        "low": {
+            "value": 5,
+            "additionalInfo": {
+                "Base": 9,
+                "Priority": 0,
+                "$": 0.51,
+                "~": "3 mins: 0 secs"
+            }
+        },
+        "average": {
+            "value": 6,
+            "additionalInfo": {
+                "Base": 11,
+                "Priority": 1,
+                "$": 0.51,
+                "~": "3 mins: 0 secs"
+            }
+        },
+        "high": {
+            "value": 7,
+            "additionalInfo": {
+                "Base": 11,
+                "Priority": 3,
+                "$": 0.54,
+                "~": "30 secs"
+            }
+        }
     }
 }
