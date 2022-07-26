@@ -1,9 +1,4 @@
 <script>
-    let tickVariants = {
-        "7": 0,
-        "30": 5,
-        "90": 7
-    };
     export default{
         props: {
             gasPriceData: Object
@@ -20,6 +15,7 @@
                     },
                     xaxis: {
                         categories: this.getDataArray('date', 7),
+                        tickAmount: 7,
                         labels: {
                             rotate: 0,
                             style: {
@@ -35,6 +31,7 @@
                         min(mn) {
                             return mn - 2;
                         },
+                        tickAmount: 8,
                         labels: {
                             style: {
                                 fontFamily: "'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif",
@@ -70,13 +67,24 @@
                 ]
             }
         },
+        mounted() {
+            window.addEventListener('resize', this.windowResize);
+        },
+        beforeDestroy() { 
+            window.removeEventListener('resize', this.windowResize); 
+        },
         methods: {
             updateData(){
-                this.chartOptions = {
-                    xaxis: {
-                        categories: this.getDataArray('date', this.currentSegment),
-                        tickAmount: tickVariants[this.currentSegment]
+                let newX = {
+                    ...this.chartOptions.xaxis,
+                    ...{
+                        categories: this.getDataArray('date', this.currentSegment)
                     }
+                };
+                this.chartOptions = {...this.chartOptions,
+                    ...{
+                    xaxis: newX
+                }
                 };
                 this.series = [
                     {data: this.getDataArray('high', this.currentSegment)},
@@ -87,6 +95,19 @@
             getDataArray(type, len) {
                 if (type === 'date') return this.gasPriceData.data.map(item => item[type]).slice(-len);
                 else return this.gasPriceData.data.map(item => item[type].average).slice(-len);
+            },
+            windowResize() {
+                let newX = {
+                    ...this.chartOptions.xaxis,
+                    ...{
+                        tickAmount: (window.innerWidth <= 550 ? 3 : 7)
+                    }
+                };
+                this.chartOptions = {...this.chartOptions,
+                    ...{
+                        xaxis: newX
+                    }
+                };
             }
         },
         watch: {

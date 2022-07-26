@@ -52,6 +52,7 @@ main {
 
   @media (min-width: $breakpoint){
     width: 70%;
+    min-width: 950px;
     max-width: 1100px;
 
     border-radius: $border-radius-size;
