@@ -33,7 +33,7 @@
 
 .buttons-wrapper {
     border: solid thin $buttons-color;
-    border-radius: 0.2rem;
+    border-radius: $border-radius-size;
 }
 
 .buttons-container {
@@ -42,8 +42,8 @@
 }
 
 button {
-    font-size: 1.2rem;
-    border-radius: 0.2rem;
+    font-size: 1rem;
+    border-radius: $border-radius-size;
     width: auto;
     border: none;
 

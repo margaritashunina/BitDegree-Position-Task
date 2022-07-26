@@ -22,10 +22,7 @@
 
 <style lang="scss">
 @import '../scss/style.scss';
-
 .gas-meter-card {
-    @import '../scss/style.scss';
-
     border: solid thin $shadow-color;
     border-radius: 0.4rem;
     font-size: 2rem;
@@ -42,7 +39,9 @@
     @include flex-container(row, center);
     flex-wrap: wrap;
 
-    color: $secondary-text-color;
-    font-size: 1rem;
+    p {
+        color: $secondary-text-color;
+        font-size: 1rem;
+    }
 }
 </style>

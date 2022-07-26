@@ -54,7 +54,7 @@ main {
     width: 70%;
     max-width: 1100px;
 
-    border-radius: 0.2rem;
+    border-radius: $border-radius-size;
     border: solid thin $shadow-color;
     filter: drop-shadow(0 0 0.1rem $shadow-color);
   }
